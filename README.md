@@ -2,7 +2,7 @@
 - 👀 I’m interested in computers and coding
 - 🌱 I’m currently learning software development with ALX
 - 💞️ I’m looking to collaborate on tasks/quizes given on ALX 
-- 📫 How to reach me gdjonso@gmail.com
+- 📫 How to reach me 
 
 <!---
 JONSO22/JONSO22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
