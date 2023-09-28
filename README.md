@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @JONSO22
-- 👀 I’m interested in computers and coding
-- 🌱 I’m currently learning software development with ALX
-- 💞️ I’m looking to collaborate on tasks/quizes given on ALX 
 - 📫 How to reach me gdjonso@gmail.com
 
 <!---
